@@ -1,0 +1,6 @@
+{
+  "name": "Calizion SchoolSuite",
+  "description": "All-in-one school administration, fees management, CBT examination, automated report cards, and e-learning platform for nursery, primary, secondary schools, and academies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
